@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: 王小川的博客
+url: "https://xiangqian684.github.io"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
@@ -11,8 +11,8 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author:
-  name:
-  email:
+  name: 王小川
+  email: xiangqian468@outlook.com
   twitter: # twitter username without the @ symbol
 social:
   name: Edition Template
