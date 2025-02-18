@@ -1,38 +1,13 @@
 ---
-title: Welcome
+title: 欢迎
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+# 你好，访客！👋
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+欢迎来到我的网站！在这里，我们只关心技术，如果你觉着我的文章可以改进的话，请到[这里来](https://bgithub.xyz/xiangqian684/xiangqian684.github.io/issues)  
+所有文章都在左边侧栏里👈  
+祝你有个美好的一天:)
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### Getting Started
 
-Getting a message sent is quick and easy with ChatApp:
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
