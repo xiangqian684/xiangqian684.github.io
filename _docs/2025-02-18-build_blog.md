@@ -10,4 +10,4 @@ type: bulid blog
 
 ## 1、导入仓库  
 首先进入[别人的网站模板（我这个模板有点问题）](https://bgithub.xyz/jeffreytse/jekyll-theme-yat/fork)  
-![图片](images/01-fork.jpg)
+![图片](/images/01-fork.jpg)
